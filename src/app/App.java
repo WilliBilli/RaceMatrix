@@ -98,11 +98,11 @@ public class App {
         compList, formatFromAveragePosition.maxStartPosition());
     calculatePoints.getPositionsSortMap();
 
-    /* Формат каждый на каждов */
+    /* Формат каждый на каждом */
     // FormatEachOnEach formatEachOnEach = new FormatEachOnEach(12, 5);
   }
 
-  /* Метод перемешивает массив */
+  /* Перемешивает массив */
   private static int[] startNumRandom(int[] arr) {
     if (arr == null)
       return null;
