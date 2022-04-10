@@ -20,7 +20,7 @@ public class App {
     for (int r = 0; r < nRacerCnt; r++) // Номера с 0 - n
       startPosition[r] = r;
     // Перемешиваем номера
-    startNumRandom(startPosition);
+    // startNumRandom(startPosition);
 
     /* Класс для распределения стартовых позиций */
     // Объект класса Старт со средних позиций.
